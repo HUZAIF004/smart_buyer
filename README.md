@@ -2,9 +2,7 @@
 
 An autonomous product research agent that cuts through fake reviews, finds real user complaints from Reddit/forums, compares live store prices, and delivers an objective Buyer's Guide — all in under 2 minutes.
 
-![Theme: Dark E-Commerce Storefront](https://img.shields.io/badge/Theme-Dark%20Storefront-0F1117?style=flat-square&labelColor=00D4AA)
 ![Stack: LangChain + LangGraph](https://img.shields.io/badge/Stack-LangChain%20%2B%20LangGraph-209DD7?style=flat-square)
-![Cost: ~$0.005/run](https://img.shields.io/badge/Cost-~%240.005%2Frun-FFB706?style=flat-square)
 
 ---
 
